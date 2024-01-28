@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>css on End Wokeness</title>
+    <link>https://gustavox.github.io/end-wokeness/tags/css/</link>
+    <description>Recent content in css on End Wokeness</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+    <lastBuildDate>Sat, 30 Dec 2023 16:07:44 -0300</lastBuildDate>
+    <atom:link href="https://gustavox.github.io/end-wokeness/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blablabla</title>
+      <link>https://gustavox.github.io/end-wokeness/posts/blabla/</link>
+      <pubDate>Sat, 30 Dec 2023 16:07:44 -0300</pubDate>
+      <guid>https://gustavox.github.io/end-wokeness/posts/blabla/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Post 4</title>
+      <link>https://gustavox.github.io/end-wokeness/posts/first-copy/</link>
+      <pubDate>Fri, 29 Dec 2023 16:07:44 -0300</pubDate>
+      <guid>https://gustavox.github.io/end-wokeness/posts/first-copy/</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Post number one</title>
+      <link>https://gustavox.github.io/end-wokeness/posts/first/</link>
+      <pubDate>Thu, 28 Dec 2023 16:07:44 -0300</pubDate>
+      <guid>https://gustavox.github.io/end-wokeness/posts/first/</guid>
+      <description>Please donate to Gaza 👇
+🤣
+https://t.co/sc0i8Wal19
+&amp;mdash; Dr. Eli David (@DrEliDavid) December 13, 2023 </description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on End Wokeness</title>
+    <link>https://gustavox.github.io/end-wokeness/tags/</link>
+    <description>Recent content in Tags on End Wokeness</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+    <lastBuildDate>Sat, 30 Dec 2023 16:07:44 -0300</lastBuildDate>
+    <atom:link href="https://gustavox.github.io/end-wokeness/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>css</title>
+      <link>https://gustavox.github.io/end-wokeness/tags/css/</link>
+      <pubDate>Sat, 30 Dec 2023 16:07:44 -0300</pubDate>
+      <guid>https://gustavox.github.io/end-wokeness/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>html</title>
+      <link>https://gustavox.github.io/end-wokeness/tags/html/</link>
+      <pubDate>Sat, 30 Dec 2023 16:07:44 -0300</pubDate>
+      <guid>https://gustavox.github.io/end-wokeness/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>lol</title>
+      <link>https://gustavox.github.io/end-wokeness/tags/lol/</link>
+      <pubDate>Thu, 28 Dec 2023 16:08:45 -0300</pubDate>
+      <guid>https://gustavox.github.io/end-wokeness/tags/lol/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>wow</title>
+      <link>https://gustavox.github.io/end-wokeness/tags/wow/</link>
+      <pubDate>Thu, 28 Dec 2023 16:08:45 -0300</pubDate>
+      <guid>https://gustavox.github.io/end-wokeness/tags/wow/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>funny</title>
+      <link>https://gustavox.github.io/end-wokeness/tags/funny/</link>
+      <pubDate>Thu, 28 Dec 2023 16:08:44 -0300</pubDate>
+      <guid>https://gustavox.github.io/end-wokeness/tags/funny/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>memes</title>
+      <link>https://gustavox.github.io/end-wokeness/tags/memes/</link>
+      <pubDate>Thu, 28 Dec 2023 16:08:44 -0300</pubDate>
+      <guid>https://gustavox.github.io/end-wokeness/tags/memes/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
