@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>wow on End Wokeness</title>
-    <link>https://gustavox.github.io/end-wokeness/tags/wow/</link>
+    <link>https://gustavo-x.github.io/end_wokeness.github.io/tags/wow/</link>
     <description>Recent content in wow on End Wokeness</description>
     <generator>Hugo -- gohugo.io</generator>
     
     <lastBuildDate>Thu, 28 Dec 2023 16:08:45 -0300</lastBuildDate>
-    <atom:link href="https://gustavox.github.io/end-wokeness/tags/wow/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gustavo-x.github.io/end_wokeness.github.io/tags/wow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Thirth</title>
-      <link>https://gustavox.github.io/end-wokeness/posts/thirth/</link>
+      <link>https://gustavo-x.github.io/end_wokeness.github.io/posts/thirth/</link>
       <pubDate>Thu, 28 Dec 2023 16:08:45 -0300</pubDate>
-      <guid>https://gustavox.github.io/end-wokeness/posts/thirth/</guid>
+      <guid>https://gustavo-x.github.io/end_wokeness.github.io/posts/thirth/</guid>
       <description>It works !!!!</description>
     </item>
   </channel>

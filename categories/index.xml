@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on End Wokeness</title>
-    <link>https://gustavox.github.io/end-wokeness/categories/</link>
+    <link>https://gustavo-x.github.io/end_wokeness.github.io/categories/</link>
     <description>Recent content in Categories on End Wokeness</description>
     <generator>Hugo -- gohugo.io</generator>
     
     <lastBuildDate>Sat, 30 Dec 2023 16:07:44 -0300</lastBuildDate>
-    <atom:link href="https://gustavox.github.io/end-wokeness/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gustavo-x.github.io/end_wokeness.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>tech</title>
-      <link>https://gustavox.github.io/end-wokeness/categories/tech/</link>
+      <link>https://gustavo-x.github.io/end_wokeness.github.io/categories/tech/</link>
       <pubDate>Sat, 30 Dec 2023 16:07:44 -0300</pubDate>
-      <guid>https://gustavox.github.io/end-wokeness/categories/tech/</guid>
+      <guid>https://gustavo-x.github.io/end_wokeness.github.io/categories/tech/</guid>
       <description></description>
     </item>
     <item>
       <title>hilarious</title>
-      <link>https://gustavox.github.io/end-wokeness/categories/hilarious/</link>
+      <link>https://gustavo-x.github.io/end_wokeness.github.io/categories/hilarious/</link>
       <pubDate>Thu, 28 Dec 2023 16:08:45 -0300</pubDate>
-      <guid>https://gustavox.github.io/end-wokeness/categories/hilarious/</guid>
+      <guid>https://gustavo-x.github.io/end_wokeness.github.io/categories/hilarious/</guid>
       <description></description>
     </item>
   </channel>
