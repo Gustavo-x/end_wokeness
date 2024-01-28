@@ -1,0 +1,40 @@
+baseURL: "https://imgustavo.github.io/end-wokeness/"
+languageCode: en-us
+title: End Wokeness
+theme: "PaperMod"
+
+params:
+  showShareButtons: true
+  ShowPostNavLinks: true
+  env: production
+  assets:
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+    safari_pinned_tab: "/safari-pinned-tab.svg"
+
+  # Logo and name shown on top left of site
+  label:
+    text: "End Wokeness"
+    icon: /android-chrome-512x512.png
+    iconHeight: 33
+
+  # Menu items
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories
+      weight: 1
+    - identifier: tags
+      name: Tags
+      url: /tags
+      weight: 2
+    - identifier: archives
+      name: Archives
+      url: /archives
+      weight: 3
+services:
+  googleAnalytics:
+    #ID: G-1HD65W2C3M
